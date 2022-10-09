@@ -73,9 +73,12 @@ input, select, textarea {
 }
 
 .text-slider-items {
-	/*display: none; */
+	display: none;
 }
 
+.text-slider {
+	font-family:'Courier New', Courier, monospace;
+}
 
 
 /* Basic */
