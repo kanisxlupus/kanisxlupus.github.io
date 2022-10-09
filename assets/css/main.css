@@ -72,7 +72,7 @@ input, select, textarea {
 	appearance: none;
 }
 
-.text-slider-items {
+.text-slider {
 	display: none;
 	font-family: 'Courier New';
 }
