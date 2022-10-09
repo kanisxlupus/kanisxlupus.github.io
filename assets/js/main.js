@@ -3,14 +3,6 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-import Typed from 'typed.js';
-
-var options = {
-	strings: ['<i>First</i> sentence.', '&amp; a second sentence.'],
-	typeSpeed: 40
-  };
-  
-  var typed = new Typed('.element', options);
 
 (function($) {
 
