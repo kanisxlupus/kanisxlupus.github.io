@@ -73,8 +73,9 @@ input, select, textarea {
 }
 
 .text-slider-items {
-	display: none;
+	/*display: none; */
 }
+
 
 
 /* Basic */
