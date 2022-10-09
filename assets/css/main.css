@@ -74,6 +74,7 @@ input, select, textarea {
 
 .text-slider-items {
 	display: none;
+	font-family: monospace;
 }
 
 /* Basic */
