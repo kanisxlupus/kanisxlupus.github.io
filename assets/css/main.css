@@ -72,6 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+.text-slider-items {
+	display: none;
+}
+
 /* Basic */
 
 	html {
